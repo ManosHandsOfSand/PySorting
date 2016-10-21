@@ -1,10 +1,4 @@
 
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 21 14:24:53 2016
-
-@author: f401051
-"""
     
 def BubbleSort(obj, ascending=True):
     li = []
